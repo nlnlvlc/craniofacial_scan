@@ -37,9 +37,13 @@ could help create accessible and quick options for early prototyping.
 ## Timeline:
 **Week 5 & 6:** Setup/Build Scanning Setup. If not possible to use iPad Pro LiDAR, other camera
 options which allow use for depth sensing can be used
+
 **Week 7 & 8:** Test scanner on multiple face and object samples; make requires changes and identify
 parameters for distance and placement to ensure consistency
+
 **Week 9 & 10:** identify craniofacial landmarks and their positions to be applied to scans; identify
 prominent landmarks to use for ratio comparison
-**Week 11:** Test exporting scans as 3D models for use in other 3D software;
+
+**Week 11:** Test exporting scans as 3D models for use in other 3D software
+
 **Week 12 – 14:** Create website, put together findings, and test out potential demo
