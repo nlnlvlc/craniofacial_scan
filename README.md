@@ -25,14 +25,15 @@ could help create accessible and quick options for early prototyping.
 
 ## References:
 
-* https://link.springer.com/chapter/10.1007/978-3-540-24671-8_18
-* http://mesh.brown.edu/desktop3dscan/
+* [Face Recognition from Facial Surface Metric](https://link.springer.com/chapter/10.1007/978-3-540-24671-8_18)
+* [3D Scanning for Personal 3D Printing:
+Build Your Own Desktop 3D Scanner](http://mesh.brown.edu/desktop3dscan/)
 * [3D Reconstruction for Featurless Scenes with Curvature Hints](https://youtu.be/PrUVo3potl4?si=7t_f9_MH8kkonLsp) 
-* https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6890f210cdc574caa89fa94933ec942360aa1e0c
-* https://www.sciencedirect.com/science/article/abs/pii/S0925231217301248
-* https://www.researchgate.net/figure/Example-of-face-and-landmarks-detection-and-the-Delaunay-triangulation-to-form-a-mesh_fig1_328676113
-* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228402
-* https://www.nature.com/articles/s41598-018-22752-5
+* [How effective are landmarks and their geometry for face recognition?](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6890f210cdc574caa89fa94933ec942360aa1e0c)
+* [A landmark-based data-driven approach on 2.5D facial attractiveness computation](https://www.sciencedirect.com/science/article/abs/pii/S0925231217301248)
+* [Emotion Recognition using Spatiotemporal Features from Facial Expression Landmarks](https://www.researchgate.net/figure/Example-of-face-and-landmarks-detection-and-the-Delaunay-triangulation-to-form-a-mesh_fig1_328676113)
+* [Morphometric approach to 3D soft-tissue craniofacial analysis and classification of ethnicity, sex, and age](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228402)
+* [Modelling 3D craniofacial growth trajectories for population comparison and classification illustrated using sex-differences](https://www.nature.com/articles/s41598-018-22752-5)
 
 ## Timeline:
 
